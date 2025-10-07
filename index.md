@@ -3,4 +3,7 @@
 ``` Javascript
 var myVar = "Hey bestie!";
 ```
+- [ ] Get icecream
+- [ ] Smile
+- [ ] Win life
 
